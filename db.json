@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Product": 53,
+    "Category": 167
+  },
+  "models": {
+    "Product": {
+      "50": "{\"model\":\"Mercedes\",\"location\":\"Skopje\",\"startDate\":\"2019-01-04T04:10:00Z\",\"endDate\":\"2019-01-12T03:02:00Z\",\"year\":\"2005\",\"id\":50}",
+      "51": "{\"model\":\"Golf\",\"location\":\"Skopje\",\"startDate\":\"2019-01-03T00:00:00Z\",\"endDate\":\"2019-01-05T08:00:00Z\",\"year\":\"2000\",\"description\":\"Golf 2  OP\",\"id\":51}",
+      "52": "{\"id\":52,\"email\":\"admin@admin.com\",\"password\":\"admin\",\"fullname\":\"admin\"}"
+    },
+    "Category": {}
+  }
+}

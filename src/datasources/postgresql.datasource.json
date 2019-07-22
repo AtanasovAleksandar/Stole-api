@@ -1,0 +1,10 @@
+{
+  "name": "postgresql",
+  "connector": "postgresql",
+  "url": "postgres://mmphiwxhipszle:e84635f914cf0c7259cb7c973277d7c2812ee4aee0f426976491e5497e8b6d0f@ec2-174-129-18-247.compute-1.amazonaws.com:5432/db9kud8dtedef6",
+  "host": "",
+  "port": 0,
+  "user": "",
+  "password": "",
+  "database": ""
+}

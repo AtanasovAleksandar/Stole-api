@@ -1,0 +1,6 @@
+{
+  "name": "InMemorySource",
+  "connector": "memory",
+  "localStorage": "db",
+  "file": "db.json"
+}
